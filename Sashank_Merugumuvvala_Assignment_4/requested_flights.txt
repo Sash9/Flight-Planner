@@ -1,0 +1,6 @@
+5
+Miami|Boston|T
+Orlando|Denver|C
+Atlanta|Seattle|T
+Chicago|SanDiego|C
+Boston|LasVegas|T
