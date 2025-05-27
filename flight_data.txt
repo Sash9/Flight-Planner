@@ -1,0 +1,9 @@
+8
+Miami|Orlando|80|60
+Orlando|Atlanta|120|90
+Atlanta|Boston|200|150
+Boston|Chicago|250|180
+Chicago|Denver|300|210
+Denver|LasVegas|220|180
+LasVegas|Seattle|280|200
+Seattle|SanDiego|320|240
